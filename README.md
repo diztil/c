@@ -1,5 +1,5 @@
 # c
-Random mini programs 🖥️ in the C language. 🇨
+Random mini programs in the C language.
 
 ## Compilation
 ```ruby
